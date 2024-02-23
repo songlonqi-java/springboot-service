@@ -1,0 +1,5 @@
+logstash:
+  host: localhost
+  port: 9530
+logging:
+  config: classpath:logback-logstash.xml
